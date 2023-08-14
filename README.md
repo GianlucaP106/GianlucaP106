@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gianluca Piccirillo</h1>
 <h3 align="center">A software engineer</h3>
 
-<h4 align="center">I am a software engineering student at Mcgill University. I enjoy full stack development and architecture</h4>
+<h4 align="center">I am a software engineering student at Mcgill University. I enjoy full stack development, software architecture and security</h4>
 
-<h3 align="left">📇Connect with me:</h3>
-<h4 align="left">
-  LinkedIn: <a href="https://linkedin.com/in/https://www.linkedin.com/in/gianluca-piccirillo10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gianluca-piccirillo10/" height="30" width="40" /></a>
-</h4>
-<h4>
-  Personal website: <a href="https://gianlucapiccirillo.com"><img height="40" width=40" src="https://www.gianlucapiccirillo.com/_next/image?url=%2Fassets%2Flogos%2FG%20LOGO.png&w=256&q=75"></img></a>
-</h4>
+<h3 align="left">📇 Connect with me:</h3>
+
+- <p>LinkedIn: <a href="https://linkedin.com/in/https://www.linkedin.com/in/gianluca-piccirillo10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gianluca-piccirillo10/" height="20" width="25" /></a></p> 
+
+- <p>Personal website: <a href="https://gianlucapiccirillo.com"><img height="30" width=30" src="https://www.gianlucapiccirillo.com/_next/image?url=%2Fassets%2Flogos%2FG%20LOGO.png&w=256&q=75"></img></a></p>
 
 
 
