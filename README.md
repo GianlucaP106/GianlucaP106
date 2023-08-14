@@ -9,7 +9,7 @@
 
 - <p>LinkedIn: <a href="https://linkedin.com/in/https://www.linkedin.com/in/gianluca-piccirillo10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gianluca-piccirillo10/" height="20" width="25" /></a></p> 
 
-- <p>Personal website: <a href="https://gianlucapiccirillo.com"><img height="30" width=30" src="https://www.gianlucapiccirillo.com/_next/image?url=%2Fassets%2Flogos%2FG%20LOGO.png&w=256&q=75"></img></a></p>
+- <p>Portfolio: <a href="https://gianlucapiccirillo.com"><img height="30" width=30" src="https://www.gianlucapiccirillo.com/_next/image?url=%2Fassets%2Flogos%2FG%20LOGO.png&w=256&q=75"></img></a></p>
 
 
 
