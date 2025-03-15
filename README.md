@@ -15,5 +15,5 @@
 <br />
 
 <div align="left">
-  <img alt="My GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GianlucaP106&show_icons=true&theme=dark&count_private=true" width="500" />
+  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GianlucaP106&show_icons=true&theme=dark&count_private=true" width="500" />
 </div>
