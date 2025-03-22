@@ -9,7 +9,7 @@
 - 🎓 Software Engineering (BEng) Coop Student at McGill University
 - 🌐 Learn more or contact me at [gianlucapiccirillo.com](https://gianlucapiccirillo.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/gianluca-piccirillo10/)
-- 💻 Try my dev container in [Docker](https://github.com/GianlucaP106/dotfiles/blob/main/devcontainer/README.md)
+- 💻 Try my dev container with [Docker](https://github.com/GianlucaP106/dotfiles/blob/main/devcontainer/README.md)
 
 <br />
 <br />
