@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GianlucaP106&show_icons=true&layout=donut&theme=dark" alt="GianlucaP106" align="right" />
 </div>
 
-- 🏢 Co-Founder of [Devpro](https://www.devpromedia.com/), a Software Development and Consulting Company
+- 🏢 Co-Founder and lead architect at [Devpro](https://www.devprodigital.com/), a Software Development and Consulting Company
 - 💼 Previously at CGI, Intact and Lattice Semiconductor
 - 🎓 Software Engineering (BEng) Coop Student at McGill University
 - 🌐 Learn more or contact me at [gianlucapiccirillo.com](https://gianlucapiccirillo.com)
