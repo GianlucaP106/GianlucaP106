@@ -1,7 +1,7 @@
 [![image](https://github.com/GianlucaP106/GianlucaP106/assets/93693693/e6b0a825-0672-4042-a29c-1fcf68a92a3f)](https://www.gianlucapiccirillo.com/)
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GianlucaP106&show_icons=true&layout=donut&theme=dark" alt="GianlucaP106" align="right" />
+  <img src="./profile/top-langs.svg" alt="GianlucaP106" align="right" />
 </div>
 
 - 🏢 Co-Founder and lead architect at [Devpro](https://www.devprodigital.com/), a Software Development and Consulting Company
@@ -15,5 +15,5 @@
 <br />
 
 <div align="left">
-  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GianlucaP106&show_icons=true&theme=dark&count_private=true" width="500" />
+  <img alt="My GitHub stats" src="./profile/stats.svg" width="500" />
 </div>
